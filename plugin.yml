@@ -1,0 +1,9 @@
+name: StaffAuth
+version: 1.0
+author: Conflicted
+main: me.conflicted.staffauth.StaffAuth
+description: HQ Staff authentication system.
+commands:
+ login:
+ register:
+ resetmail:

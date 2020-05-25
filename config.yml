@@ -1,0 +1,13 @@
+Database:
+  host: localhost
+  port: 27017
+  database: admin
+  user: admin
+  pass: pass
+
+Mail:
+ mail: 'example'
+ pass: 'example'
+
+Settings:
+ storage-sys: file
